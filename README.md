@@ -1,5 +1,5 @@
 # BMPEdit
-Image editing program for bmp files. Editing with a custom made C-Programm. Graphical user interface did with C# (WFA).
+Image editing program for bmp files. Editing did with a custom made C-Programm. Graphical user interface did with C# (WFA).
 
 You can either use the program with the graphical user interface or just the console application.
 
