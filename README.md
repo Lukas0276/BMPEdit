@@ -16,6 +16,8 @@ x = mirror horizontal
 y = mirror vertikal
 s = black and white mode
 
+Notice that you can only edit uncompressed small bmp files. If you need an example picture you can find one in the programfolder after the installation.
+
 If you wonder how the programm works or if you want to add new features to the programm, feel free to take a look in the code (bmpEdit22.c) and edit it.
 
 If you have any questions just contact me over my website https://www.lukasahrens.de/.
